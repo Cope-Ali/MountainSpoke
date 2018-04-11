@@ -54,4 +54,7 @@
     #tourTwo p {
         height: 450px;
     }
+    video {
+        width: 400px;
+    }
 }
